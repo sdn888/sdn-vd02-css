@@ -1,0 +1,47 @@
+body {
+    background-color: crimson;
+}
+#test {
+    background-color: royalblue;
+}
+
+.text {
+    background-color: olivedrab;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50%;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50%;
+    position: relative;
+    top: 500px;
+    left: 300px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+}
